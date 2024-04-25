@@ -1,0 +1,9 @@
+My analysis of the data is that it shows us each student's math and reading scores from different schools in the same district. 
+The school's performance is evaluated by taking into account the different school sizes and budgets.
+
+I noticed while analyzing the data set that Smaller schools have higher passing rates in math and reading compared to a 
+larger school that has more students.
+
+While comparing the highest-performing schools and the lowest-performing schools I noticed that the highest-performing 
+school had a budget per student of $582 while the lowest-performing school had a budget per student of $637. This tells us 
+that having a higher budget per student doesn’t reflect in the student's Overall passing scores.
